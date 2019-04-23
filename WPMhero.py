@@ -27,7 +27,7 @@ def getWPM(url):
     print(entry)
 
 if __name__ == "__main__":
-    smashKeys('https://www.keyhero.com/free-typing-test/')
+    getWPM('https://www.keyhero.com/free-typing-test/')
 
 
 
