@@ -3,8 +3,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-
-
 def getWPM(url):
     driver = webdriver.Firefox(executable_path='./geckodriver')
     driver.get(url)
@@ -28,9 +26,3 @@ def getWPM(url):
 
 if __name__ == "__main__":
     getWPM('https://www.keyhero.com/free-typing-test/')
-
-
-
-
-
-
