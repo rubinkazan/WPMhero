@@ -1,5 +1,6 @@
 # WPMhero - Show off a high WPM to your mates!
-Hack for https://www.keyhero.com/ typing test
+Hack for https://www.keyhero.com/ typing test. 
+You will need to download the latest version of selenium web driver.
 
 ## Dependencies
 
