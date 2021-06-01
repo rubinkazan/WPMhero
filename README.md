@@ -2,6 +2,7 @@
 Hack for https://www.keyhero.com/ typing test. 
 
 You will need to download the latest version of selenium web driver.
+Currently only supports firefox web browser
 
 ## Dependencies
 
